@@ -13,21 +13,6 @@
     "url": ""
 },
 {
-    "extra": "",
-    "flavor": "",
-    "hook": "",
-    "importance": "",
-    "localHookTemplate": "",
-    "name": "FreesurferMatlab",
-    "pathPlacement": "append",
-    "requirementHook": "",
-    "subfolder": "",
-    "toolboxRoot": "",
-    "type": "local",
-    "update": "",
-    "url": "file:\/\/\/Applications\/freesurfer\/matlab\/"
-},
-{
     "flavor": "",
     "hook": "",
     "name": "GLMdenoise",
